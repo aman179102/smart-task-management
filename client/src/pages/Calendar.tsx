@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { taskAPI } from '../services/api';
 import type { Task } from '../types';
 import { Layout } from '../components/Layout';
-import { ChevronLeft, ChevronRight, CheckCircle2, Clock, Flag } from 'lucide-react';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 export const Calendar: React.FC = () => {
   const [tasks, setTasks] = useState<Task[]>([]);

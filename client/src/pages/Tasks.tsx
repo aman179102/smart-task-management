@@ -5,11 +5,8 @@ import { Layout } from '../components/Layout';
 import {
   Plus,
   Search,
-  Filter,
   Calendar,
-  Clock,
   Flag,
-  MoreVertical,
   Edit2,
   Trash2,
   CheckCircle2,

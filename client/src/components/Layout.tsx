@@ -5,12 +5,9 @@ import {
   LayoutDashboard,
   CheckSquare,
   Calendar,
-  Settings,
   LogOut,
   Menu,
   X,
-  User,
-  Bell,
 } from 'lucide-react';
 
 interface LayoutProps {
