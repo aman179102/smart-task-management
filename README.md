@@ -1,4 +1,4 @@
-# Smart Task Management System
+# Smart Task  Management System
 
 A full-stack MERN application for efficient task management with user authentication, CRUD operations, filtering, and responsive design.
 
